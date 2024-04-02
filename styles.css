@@ -107,6 +107,12 @@ h1 {
   flex-wrap: wrap;
 }
 
+.gall a {
+  color: rgb(17, 64, 36);
+}
+.gall a:hover{
+  color: rgb(35, 136, 75);
+}
 .gall {
   justify-content: center;
   padding: 4%;
@@ -423,7 +429,7 @@ section.gofundme-container {
   flex-wrap: wrap;
   justify-content: space-evenly;
   margin: 0 auto 3rem;
-  width: 80%;
+  width: 90%;
 }
 
 
